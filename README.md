@@ -20,7 +20,7 @@ Computer Science Engineering Student | Full Stack Developer | AI/ML Enthusiast
 
 ## 👨‍💻 About Me
 
-I'm a **Third-year Computer Science Engineering student at Cambridge Institute of Technology, Bangalore**, passionate about building intelligent and scalable software applications.
+I'm a **Final-year Computer Science Engineering student at Cambridge Institute of Technology, Bangalore**, passionate about building intelligent and scalable software applications.
 
 I enjoy working across **full-stack development, artificial intelligence, machine learning, computer vision, and data analytics**.
 
