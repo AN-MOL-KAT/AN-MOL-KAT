@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anmol Kathayat</h1>
 
 <h3 align="center">
-Computer Science Engineering Student • Full Stack Developer • AI/ML Enthusiast
+Final Year Computer Science Engineering Student • Full Stack Developer • AI/ML Enthusiast
 </h3>
 
 <p align="center">
